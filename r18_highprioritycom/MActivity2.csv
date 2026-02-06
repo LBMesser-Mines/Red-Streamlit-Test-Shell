@@ -1,0 +1,509 @@
+l, lprime, t, j, h, Mvalue, per-item weight, per-item importance
+Mosquito_Lake_Sup, Juneau_Airport, 0, D0880, Truck-5, 1, 200, 10000
+Mosquito_Lake_Sup, Juneau_Airport, 0, B0027, Truck-5, 0.255546, 311, 0
+Mosquito_Lake_Sup, Juneau_Airport, 0, M5030, Truck-5, 3, 510, 0
+Mosquito_Lake_Sup, Juneau_Airport, 0, B0008, Truck-5, 1, 794, 0
+Mosquito_Lake_Sup, Juneau_Airport, 0, C0078, Truck-5, 6, 200, 0
+Mosquito_Lake_Sup, Tanani_Sup, 0, B0027, Truck-5, 5.61958, 311, 0
+Mosquito_Lake_Sup, Mud_Bay_Sup, 0, D1001, Truck-5, 0.781002, 7960, 10000
+Mosquito_Lake_Sup, Mud_Bay_Sup, 0, B0049, Truck-5, 0.225282, 7410, 0
+Mosquito_Lake_Sup, Mud_Bay_Sup, 0, B0027, Truck-5, 2.55996, 311, 0
+Mosquito_Lake_Sup, Mud_Bay_Sup, 0, B2561, Truck-5, 0.492251, 31900, 0
+Mosquito_Lake_Sup, Elmendorf_AFB, 0, B0014, Truck-5, 2, 736, 0
+Mosquito_Lake_Sup, Elmendorf_AFB, 0, B0027, Truck-5, 0.0387423, 311, 0
+Mosquito_Lake_Sup, Elmendorf_AFB, 0, V4652, Truck-5, 6, 1, 0
+Mosquito_Lake_Sup, Seward_MPF_Port, 0, B22502E, Truck-5, 1, 363, 0
+Mosquito_Lake_Sup, Seward_MPF_Port, 0, B0027, Truck-5, 0.187282, 311, 0
+Mosquito_Lake_Sup, Seward_MPF_Port, 0, B22102E, Truck-5, 1, 243, 0
+Mosquito_Lake_Sup, Seward_MPF_Port, 0, V4652, Truck-5, 8, 1, 0
+Mosquito_Lake_Sup, Seward_MPF_Port, 0, M5030, Truck-5, 1, 510, 0
+Mosquito_Lake_Sup, Seward_MPF_Port, 0, B0008, Truck-5, 1.36493, 794, 0
+Mosquito_Lake_Sup, Seward_MPF_Port, 0, B0730, Truck-5, 4, 304, 0
+Mosquito_Lake_Sup, Fairbanks_Airport, 0, B0027, Truck-5, 0.0113132, 311, 0
+Mosquito_Lake_Sup, Fairbanks_Airport, 0, B0008, Truck-5, 0.635069, 794, 0
+Tanani_Sup, Juneau_Airport, 0, A0097, Truck-5, 2, 2, 0
+Tanani_Sup, Juneau_Airport, 0, A7706, Truck-5, 2, 18, 0
+Tanani_Sup, Juneau_Airport, 0, NIIN 14671753, Truck-5, 2068.18, 15, 0
+Tanani_Sup, Juneau_Airport, 0, NIIN 1491094, Truck-5, 8.22581, 22, 0
+Tanani_Sup, Seward_MPF_Port, 0, E0994, Truck-5, 8, 68, 10000
+Tanani_Sup, Seward_MPF_Port, 0, E0123, Truck-5, 8, 1, 10000
+Tanani_Sup, Seward_MPF_Port, 0, E1123, Truck-5, 8, 163, 10000
+Tanani_Sup, Seward_MPF_Port, 0, E1095, Truck-5, 2, 1, 10000
+Tanani_Sup, Seward_MPF_Port, 0, E0088, Truck-5, 36, 3, 10000
+Tanani_Sup, Seward_MPF_Port, 0, E0180, Truck-5, 2, 10, 10000
+Tanani_Sup, Seward_MPF_Port, 0, E0989, Truck-5, 33, 24, 10000
+Tanani_Sup, Seward_MPF_Port, 0, E1126, Truck-5, 16, 44, 10000
+Tanani_Sup, Fairbanks_Airport, 0, A0135, Truck-5, 2, 1, 0
+Tanani_Sup, Fairbanks_Airport, 0, V0028, Truck-5, 564.477, 200, 0
+Tanani_Sup, Fairbanks_Airport, 0, A0097, Truck-5, 9, 2, 0
+Tanani_Sup, Fairbanks_Airport, 0, V0026, Truck-5, 570, 200, 0
+Tanani_Sup, Fairbanks_Airport, 0, A7902, Truck-5, 6, 75, 0
+Tanani_Sup, Fairbanks_Airport, 0, H2047, Truck-5, 12, 1, 0
+Tanani_Sup, Fairbanks_Airport, 0, H7255, Truck-5, 2, 10, 0
+Tanani_Sup, Fairbanks_Airport, 0, V4011, Truck-5, 44, 200, 0
+Tanani_Sup, Fairbanks_Airport, 0, H2044, Truck-5, 2, 1, 0
+Tanani_Sup, Fairbanks_Airport, 0, A0073, Truck-5, 17, 1, 0
+Tanani_Sup, Fairbanks_Airport, 0, A7706, Truck-5, 3, 18, 0
+Tanani_Sup, Fairbanks_Airport, 0, V4012, Truck-5, 44, 200, 0
+Tanani_Sup, Fairbanks_Airport, 0, H7900, Truck-5, 1, 1, 0
+Tanani_Sup, Fairbanks_Airport, 0, A0126, Truck-5, 3, 1, 0
+Tanani_Sup, Fairbanks_Airport, 0, C8685, Truck-5, 1, 200, 0
+Mud_Bay_Sup, Elmendorf_AFB, 0, V4355, Truck-5, 60, 200, 0
+Mud_Bay_Sup, Elmendorf_AFB, 0, K4250, Truck-5, 20, 1, 0
+Mud_Bay_Sup, Elmendorf_AFB, 0, B0028, Truck-5, 2, 455, 0
+Mud_Bay_Sup, Elmendorf_AFB, 0, V4550, Truck-5, 2, 200, 0
+Mud_Bay_Sup, Elmendorf_AFB, 0, K4128, Truck-5, 20, 1, 0
+Mud_Bay_Sup, Elmendorf_AFB, 0, C4546, Truck-5, 9, 3, 0
+Mud_Bay_Sup, Elmendorf_AFB, 0, V4340, Truck-5, 20, 200, 0
+Mud_Bay_Sup, Elmendorf_AFB, 0, K4895, Truck-5, 5, 1, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, V4355, Truck-5, 610, 200, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, V4610, Truck-5, 36, 200, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, C7915, Truck-5, 5, 120, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, K4959, Truck-5, 41, 505, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, K4250, Truck-5, 40, 1, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, V4652, Truck-5, 128, 1, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, V4550, Truck-5, 10, 200, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, B13202E, Truck-5, 5, 200, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, C4546, Truck-5, 10, 3, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, V4340, Truck-5, 160, 200, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, H7030, Truck-5, 5, 1, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, C3409, Truck-5, 35.4746, 650, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, D0475, Truck-5, 1, 1, 10000
+Mud_Bay_Sup, Fairbanks_Airport, 0, V0012, Truck-5, 160, 200, 0
+Mud_Bay_Sup, Fairbanks_Airport, 0, V0023, Truck-5, 40, 200, 0
+Anchorage_Port, Juneau_Airport, 0, C00772E, Truck-5, 1, 480, 0
+Anchorage_Port, Juneau_Airport, 0, HEATER-PORTABLE-DUCT, Truck-5, 1, 1280, 0
+Anchorage_Port, Juneau_Airport, 0, PORTABLE FLOOR CRANE, Truck-5, 0.435184, 330, 0
+Anchorage_Port, Juneau_Airport, 0, CHARGING RIG-O2, Truck-5, 1, 2130, 0
+Anchorage_Port, Juneau_Airport, 0, DISABLED WHEEL DOLLY, Truck-5, 1, 310, 10000
+Anchorage_Port, Juneau_Airport, 0, COMPONENT HANDLING JACK, Truck-5, 0.0522151, 910, 0
+Anchorage_Port, Juneau_Airport, 0, SUU-95/A, Truck-5, 1, 500, 0
+Anchorage_Port, Juneau_Airport, 0, ADU-933 Crate, Truck-5, 1, 80, 0
+Anchorage_Port, Juneau_Airport, 0, C4433, Truck-5, 6, 3260, 10000
+Anchorage_Port, Juneau_Airport, 0, LAU-147 Crate, Truck-5, 1, 140, 0
+Anchorage_Port, Juneau_Airport, 0, BRU-67 Crate, Truck-5, 1, 190, 0
+Anchorage_Port, Juneau_Airport, 0, SUU-96/A, Truck-5, 1, 250, 0
+Anchorage_Port, Elmendorf_AFB, 0, PORTABLE FLOOR CRANE, Truck-5, 0.564816, 330, 0
+Anchorage_Port, Elmendorf_AFB, 0, COMPRESSOR UNIT-ROTARY, Truck-5, 1, 2500, 0
+Anchorage_Port, Elmendorf_AFB, 0, A0047, Truck-5, 1, 7550, 0
+Anchorage_Port, Elmendorf_AFB, 0, COMPONENT HANDLING JACK, Truck-5, 0.947785, 910, 0
+Anchorage_Port, Elmendorf_AFB, 0, ADU-932 Crate, Truck-5, 1, 80, 0
+Anchorage_Port, Elmendorf_AFB, 0, A32327G, Truck-5, 1, 10840, 0
+Anchorage_Port, Elmendorf_AFB, 0, LAU-151/A, Truck-5, 1, 140, 0
+Anchorage_Port, Elmendorf_AFB, 0, B09537B, Truck-5, 1, 2220, 0
+Anchorage_Port, Elmendorf_AFB, 0, HIGH LIFT ADAPTER CRATE, Truck-5, 1, 550, 0
+Anchorage_Port, Elmendorf_AFB, 0, YN706, Truck-5, 1, 4910, 0
+Anchorage_Port, Elmendorf_AFB, 0, B1021, Truck-5, 8, 3230, 0
+Anchorage_Port, Elmendorf_AFB, 0, B00147B, Truck-5, 1, 560, 0
+Anchorage_Port, Seward_MPF_Port, 0, C44332E, OSV, 1, 4830, 10000
+Anchorage_Port, Seward_MPF_Port, 0, C4433, OSV, 2, 3260, 10000
+Anchorage_Port, Fairbanks_Airport, 0, D0034, Truck-5, 1, 11500, 10000
+Anchorage_Port, Fairbanks_Airport, 0, E0043, Truck-5, 0.888871, 12060, 10000
+Anchorage_Port, Fairbanks_Airport, 0, C4433, Truck-5, 2, 3260, 10000
+Anchorage_Port, Fairbanks_Airport, 0, A0292, Truck-5, 1, 10300, 0
+Anchorage_Port, Nome_Port, 0, C44332E, OSV, 1, 4830, 10000
+Camp_Pendleton_Airport, Juneau_Airport, 0, D0015, C-17, 0.647131, 54000, 10000
+Camp_Pendleton_Airport, Juneau_Airport, 0, D0017, C-17, 2, 2180, 10000
+Camp_Pendleton_Airport, Elmendorf_AFB, 0, B0014, C-17, 7, 736, 0
+Camp_Pendleton_Airport, Elmendorf_AFB, 0, D0033, C-17, 2, 10740, 10000
+Camp_Pendleton_Airport, Elmendorf_AFB, 0, H2044, C-17, 3, 1, 0
+Camp_Pendleton_Airport, Elmendorf_AFB, 0, D0015, C-17, 1, 54000, 10000
+Camp_Pendleton_Airport, Elmendorf_AFB, 0, H7030, C-17, 2, 1, 0
+Camp_Pendleton_Airport, Nome_Airport, 0, 3573AS100-1, C-17, 1, 2100, 0
+Camp_Pendleton_Airport, Nome_Airport, 0, A0073, C-17, 6, 1, 0
+Camp_Pendleton_Airport, Nome_Airport, 0, A0067, C-17, 6.88235, 9780, 0
+Mud_Bay_Sup, Juneau_Airport, 1, V4355, Truck-5, 28, 200, 0
+Mud_Bay_Sup, Juneau_Airport, 1, V4610, Truck-5, 2, 200, 0
+Mud_Bay_Sup, Juneau_Airport, 1, C7915, Truck-5, 4, 120, 0
+Mud_Bay_Sup, Juneau_Airport, 1, K4343, Truck-5, 6, 200, 0
+Mud_Bay_Sup, Juneau_Airport, 1, C79052B, Truck-5, 1, 200, 0
+Mud_Bay_Sup, Juneau_Airport, 1, K4250, Truck-5, 20, 1, 0
+Mud_Bay_Sup, Juneau_Airport, 1, B0027, Truck-5, 1.10126, 311, 0
+Mud_Bay_Sup, Juneau_Airport, 1, V4550, Truck-5, 2, 200, 0
+Mud_Bay_Sup, Juneau_Airport, 1, B2035, Truck-5, 2, 200, 0
+Mud_Bay_Sup, Juneau_Airport, 1, K4128, Truck-5, 6, 1, 0
+Mud_Bay_Sup, Juneau_Airport, 1, V4340, Truck-5, 6, 200, 0
+Mud_Bay_Sup, Juneau_Airport, 1, K4895, Truck-5, 2, 1, 0
+Mud_Bay_Sup, Juneau_Airport, 1, V0012, Truck-5, 7, 200, 0
+Mud_Bay_Sup, Juneau_Airport, 1, V0023, Truck-5, 2, 200, 0
+Mud_Bay_Sup, Juneau_Airport, 1, C4880, Truck-5, 9, 200, 0
+Seward_MPF_Port, Elmendorf_AFB, 1, C44332E, Truck-5, 1, 4830, 10000
+Seward_MPF_Port, Elmendorf_AFB, 1, B0027, Truck-5, 0.187282, 311, 0
+Seward_MPF_Port, Elmendorf_AFB, 1, C4433, Truck-5, 2, 3260, 10000
+Seward_MPF_Port, Fairbanks_Airport, 1, B22502E, Truck-5, 1, 363, 0
+Seward_MPF_Port, Fairbanks_Airport, 1, B22102E, Truck-5, 1, 243, 0
+Seward_MPF_Port, Fairbanks_Airport, 1, V4652, Truck-5, 8, 1, 0
+Seward_MPF_Port, Fairbanks_Airport, 1, M5030, Truck-5, 1, 510, 0
+Seward_MPF_Port, Fairbanks_Airport, 1, B0008, Truck-5, 1.36493, 794, 0
+Seward_MPF_Port, Fairbanks_Airport, 1, B0730, Truck-5, 4, 304, 0
+Camp_Pendleton_Airport, Juneau_Airport, 1, B0063, C-17, 1, 46420, 0
+Camp_Pendleton_Airport, Juneau_Airport, 1, D0015, C-17, 0.352869, 54000, 10000
+Camp_Pendleton_Airport, Juneau_Airport, 1, D0003, C-17, 1, 44480, 10000
+Camp_Pendleton_Airport, Juneau_Airport, 1, D0005, C-17, 1, 44480, 10000
+Camp_Pendleton_Airport, Elmendorf_AFB, 1, D0034, C-17, 0.489025, 11500, 10000
+Camp_Pendleton_Airport, Elmendorf_AFB, 1, B0063, C-17, 1, 46420, 0
+Camp_Pendleton_Airport, Elmendorf_AFB, 1, A0067, C-17, 2, 9780, 0
+Camp_Pendleton_Airport, Nome_Airport, 1, D0034, C-17, 1, 11500, 10000
+Camp_Pendleton_Airport, Nome_Airport, 1, B0014, C-17, 5, 736, 0
+Camp_Pendleton_Airport, Nome_Airport, 1, 1479AS500, C-17, 1, 300, 0
+Camp_Pendleton_Airport, Nome_Airport, 1, 040489-10, C-17, 1, 4000, 0
+Camp_Pendleton_Airport, Nome_Airport, 1, D0022, C-17, 2, 7840, 10000
+Camp_Pendleton_Airport, Nome_Airport, 1, B0008, C-17, 1, 794, 0
+Camp_Pendleton_Airport, Nome_Airport, 1, 10-10-0002, C-17, 1, 12500, 0
+Mosquito_Lake_Sup, Juneau_Airport, 2, B0027, Truck-5, 0.0262282, 311, 0
+Mosquito_Lake_Sup, Juneau_Airport, 2, B2085, Truck-5, 1, 2600, 0
+Mosquito_Lake_Sup, Juneau_Airport, 2, C0035, Truck-5, 1, 887, 0
+Mosquito_Lake_Sup, Elmendorf_AFB, 2, B0027, Truck-5, 0.301345, 311, 0
+Mosquito_Lake_Sup, Elmendorf_AFB, 2, B2085, Truck-5, 3, 2600, 0
+Mosquito_Lake_Sup, Elmendorf_AFB, 2, B0043, Truck-5, 1, 1550, 0
+Tanani_Sup, Juneau_Airport, 2, C8614, Truck-5, 1, 200, 0
+Tanani_Sup, Juneau_Airport, 2, V0028, Truck-5, 28, 200, 0
+Tanani_Sup, Juneau_Airport, 2, C8600, Truck-5, 1, 200, 0
+Tanani_Sup, Juneau_Airport, 2, D0013, Truck-5, 1, 200, 10000
+Tanani_Sup, Juneau_Airport, 2, V0024, Truck-5, 28, 200, 0
+Tanani_Sup, Juneau_Airport, 2, V0026, Truck-5, 28, 200, 0
+Tanani_Sup, Juneau_Airport, 2, C8740, Truck-5, 2, 200, 0
+Tanani_Sup, Juneau_Airport, 2, C8604, Truck-5, 1, 200, 0
+Tanani_Sup, Juneau_Airport, 2, V4011, Truck-5, 2, 200, 0
+Tanani_Sup, Juneau_Airport, 2, C8638, Truck-5, 1, 720, 0
+Tanani_Sup, Juneau_Airport, 2, B0027, Truck-5, 1.6193, 311, 0
+Tanani_Sup, Juneau_Airport, 2, V4012, Truck-5, 2, 200, 0
+Tanani_Sup, Juneau_Airport, 2, NIIN 14671753, Truck-5, 118.182, 15, 0
+Tanani_Sup, Juneau_Airport, 2, C8640, Truck-5, 2, 200, 0
+Tanani_Sup, Juneau_Airport, 2, NIIN 1491094, Truck-5, 3.22581, 22, 0
+Tanani_Sup, Elmendorf_AFB, 2, V0028, Truck-5, 60, 200, 0
+Tanani_Sup, Elmendorf_AFB, 2, V0024, Truck-5, 60, 200, 0
+Tanani_Sup, Elmendorf_AFB, 2, V0026, Truck-5, 60, 200, 0
+Tanani_Sup, Elmendorf_AFB, 2, B0027, Truck-5, 2.91587, 311, 0
+Tanani_Sup, Fairbanks_Airport, 2, V0028, Truck-5, 85.5235, 200, 0
+Tanani_Sup, Fairbanks_Airport, 2, V0024, Truck-5, 650, 200, 0
+Tanani_Sup, Fairbanks_Airport, 2, C8648, Truck-5, 1, 200, 0
+Tanani_Sup, Fairbanks_Airport, 2, C8740, Truck-5, 1, 200, 0
+Tanani_Sup, Fairbanks_Airport, 2, C8644, Truck-5, 1, 200, 0
+Tanani_Sup, Fairbanks_Airport, 2, C8640, Truck-5, 1, 200, 0
+Mud_Bay_Sup, Juneau_Airport, 2, K4959, Truck-5, 6, 505, 0
+Mud_Bay_Sup, Juneau_Airport, 2, B0029, Truck-5, 2, 534, 0
+Mud_Bay_Sup, Juneau_Airport, 2, C0138, Truck-5, 1.07293, 730, 0
+Mud_Bay_Sup, Juneau_Airport, 2, B0028, Truck-5, 5, 455, 0
+Mud_Bay_Sup, Juneau_Airport, 2, M5030, Truck-5, 2, 510, 0
+Mud_Bay_Sup, Fairbanks_Airport, 2, B0027, Truck-5, 1.31333, 311, 0
+Mud_Bay_Sup, Fairbanks_Airport, 2, C3409, Truck-5, 84.6972, 650, 0
+Elmendorf_AFB, Seward_MPF_Port, 2, D0034, Truck-5, 0.302783, 11500, 10000
+Elmendorf_AFB, Fairbanks_Airport, 2, A0067, Truck-5, 2, 9780, 0
+Seward_MPF_Port, Fairbanks_Airport, 2, E0994, Truck-5, 8, 68, 10000
+Seward_MPF_Port, Fairbanks_Airport, 2, E0123, Truck-5, 8, 1, 10000
+Seward_MPF_Port, Fairbanks_Airport, 2, E1123, Truck-5, 8, 163, 10000
+Seward_MPF_Port, Fairbanks_Airport, 2, E1095, Truck-5, 2, 1, 10000
+Seward_MPF_Port, Fairbanks_Airport, 2, E0088, Truck-5, 36, 3, 10000
+Seward_MPF_Port, Fairbanks_Airport, 2, E0180, Truck-5, 2, 10, 10000
+Seward_MPF_Port, Fairbanks_Airport, 2, E0989, Truck-5, 33, 24, 10000
+Seward_MPF_Port, Fairbanks_Airport, 2, E1126, Truck-5, 16, 44, 10000
+Fairbanks_Airport, Elmendorf_AFB, 2, B0027, Truck-5, 0.0113132, 311, 0
+Nome_Airport, Teller_Dest, 2, D0034, Truck-5, 1, 11500, 10000
+Nome_Airport, Teller_Dest, 2, B0014, Truck-5, 5, 736, 0
+Nome_Airport, Teller_Dest, 2, 3573AS100-1, Truck-5, 1, 2100, 0
+Nome_Airport, Teller_Dest, 2, 1479AS500, Truck-5, 1, 300, 0
+Nome_Airport, Teller_Dest, 2, 040489-10, Truck-5, 1, 4000, 0
+Nome_Airport, Teller_Dest, 2, D0022, Truck-5, 2, 7840, 10000
+Nome_Airport, Teller_Dest, 2, A0073, Truck-5, 6, 1, 0
+Nome_Airport, Teller_Dest, 2, B0008, Truck-5, 1, 794, 0
+Nome_Airport, Teller_Dest, 2, A0067, Truck-5, 5.23529, 9780, 0
+Nome_Airport, Teller_Dest, 2, 10-10-0002, Truck-5, 0.447815, 12500, 0
+Anchorage_Port, Nome_Port, 2, A04037G, OSV, 1, 10300, 0
+Anchorage_Port, Nome_Port, 2, MEPP-6 270 POWER CART (Sea Lift), OSV, 1, 5500, 0
+Anchorage_Port, Nome_Port, 2, CART-PAO SEVICING-DIESEL, OSV, 1, 12310, 0
+Anchorage_Port, Nome_Port, 2, AIR CONDITIONER-DIESEL-LAND BASED, OSV, 1, 14160, 0
+Anchorage_Port, Nome_Port, 2, LH859, OSV, 1, 5500, 0
+Juneau_Airport, Nome_Airport, 2, D0880, C-17, 1, 200, 10000
+Juneau_Airport, Nome_Airport, 2, V4355, C-17, 28, 200, 0
+Juneau_Airport, Nome_Airport, 2, V4610, C-17, 2, 200, 0
+Juneau_Airport, Nome_Airport, 2, C7915, C-17, 2, 120, 0
+Juneau_Airport, Nome_Airport, 2, K4343, C-17, 6, 200, 0
+Juneau_Airport, Nome_Airport, 2, A0097, C-17, 2, 2, 0
+Juneau_Airport, Nome_Airport, 2, C00772E, C-17, 1, 480, 0
+Juneau_Airport, Nome_Airport, 2, HEATER-PORTABLE-DUCT, C-17, 1, 1280, 0
+Juneau_Airport, Nome_Airport, 2, PORTABLE FLOOR CRANE, C-17, 0.435184, 330, 0
+Juneau_Airport, Nome_Airport, 2, CHARGING RIG-O2, C-17, 1, 2130, 0
+Juneau_Airport, Nome_Airport, 2, C79052B, C-17, 1, 200, 0
+Juneau_Airport, Nome_Airport, 2, K4250, C-17, 20, 1, 0
+Juneau_Airport, Nome_Airport, 2, DISABLED WHEEL DOLLY, C-17, 1, 310, 10000
+Juneau_Airport, Nome_Airport, 2, B0027, C-17, 1.3568, 311, 0
+Juneau_Airport, Nome_Airport, 2, A7706, C-17, 2, 18, 0
+Juneau_Airport, Nome_Airport, 2, COMPONENT HANDLING JACK, C-17, 0.0522151, 910, 0
+Juneau_Airport, Nome_Airport, 2, M5030, C-17, 3, 510, 0
+Juneau_Airport, Nome_Airport, 2, V4550, C-17, 2, 200, 0
+Juneau_Airport, Nome_Airport, 2, B2035, C-17, 2, 200, 0
+Juneau_Airport, Nome_Airport, 2, SUU-95/A, C-17, 1, 500, 0
+Juneau_Airport, Nome_Airport, 2, K4128, C-17, 6, 1, 0
+Juneau_Airport, Nome_Airport, 2, B0008, C-17, 1, 794, 0
+Juneau_Airport, Nome_Airport, 2, V4340, C-17, 6, 200, 0
+Juneau_Airport, Nome_Airport, 2, K4895, C-17, 2, 1, 0
+Juneau_Airport, Nome_Airport, 2, ADU-933 Crate, C-17, 1, 80, 0
+Juneau_Airport, Nome_Airport, 2, C4433, C-17, 5, 3260, 10000
+Juneau_Airport, Nome_Airport, 2, C0078, C-17, 6, 200, 0
+Juneau_Airport, Nome_Airport, 2, V0012, C-17, 7, 200, 0
+Juneau_Airport, Nome_Airport, 2, LAU-147 Crate, C-17, 1, 140, 0
+Juneau_Airport, Nome_Airport, 2, V0023, C-17, 2, 200, 0
+Juneau_Airport, Nome_Airport, 2, BRU-67 Crate, C-17, 1, 190, 0
+Juneau_Airport, Nome_Airport, 2, SUU-96/A, C-17, 1, 250, 0
+Juneau_Airport, Nome_Airport, 2, C4880, C-17, 9, 200, 0
+Elmendorf_AFB, Nome_Airport, 2, PORTABLE FLOOR CRANE, C-17, 0.564816, 330, 0
+Elmendorf_AFB, Nome_Airport, 2, COMPRESSOR UNIT-ROTARY, C-17, 1, 2500, 0
+Elmendorf_AFB, Nome_Airport, 2, COMPONENT HANDLING JACK, C-17, 0.947785, 910, 0
+Elmendorf_AFB, Nome_Airport, 2, ADU-932 Crate, C-17, 1, 80, 0
+Elmendorf_AFB, Nome_Airport, 2, C4546, C-17, 9, 3, 0
+Elmendorf_AFB, Nome_Airport, 2, LAU-151/A, C-17, 1, 140, 0
+Elmendorf_AFB, Nome_Airport, 2, HIGH LIFT ADAPTER CRATE, C-17, 1, 550, 0
+Elmendorf_AFB, Nome_Airport, 2, B1021, C-17, 1, 3230, 0
+Camp_Pendleton_Airport, Juneau_Airport, 2, D0034, C-17, 2.51098, 11500, 10000
+Juneau_Airport, Elmendorf_AFB, 3, B0027, C-17, 0.197007, 311, 0
+Juneau_Airport, Fairbanks_Airport, 3, D0034, Truck-5, 2.51098, 11500, 10000
+Tanani_Sup, Juneau_Airport, 3, C8638, Truck-5, 1, 720, 0
+Tanani_Sup, Juneau_Airport, 3, B0027, Truck-5, 0.0351189, 311, 0
+Tanani_Sup, Juneau_Airport, 3, NIIN 14671753, Truck-5, 118.182, 15, 0
+Tanani_Sup, Juneau_Airport, 3, NIIN 1491094, Truck-5, 3.22581, 22, 0
+Tanani_Sup, Juneau_Airport, 3, B0640, Truck-5, 3.15761, 1920, 0
+Tanani_Sup, Fairbanks_Airport, 3, C8638, Truck-5, 1, 720, 0
+Mud_Bay_Sup, Juneau_Airport, 3, M0001, Truck-5, 1, 790, 0
+Mud_Bay_Sup, Juneau_Airport, 3, B0030, Truck-5, 2.02924, 1045, 0
+Mud_Bay_Sup, Juneau_Airport, 3, C0138, Truck-5, 1.76252, 730, 0
+Mud_Bay_Sup, Juneau_Airport, 3, B0953, Truck-5, 0.609772, 2230, 0
+Mud_Bay_Sup, Elmendorf_AFB, 3, B1580, Truck-5, 4, 2300, 0
+Mud_Bay_Sup, Elmendorf_AFB, 3, B0030, Truck-5, 0.97076, 1045, 0
+Mud_Bay_Sup, Elmendorf_AFB, 3, B0640, Truck-5, 1.84239, 1920, 0
+Mud_Bay_Sup, Elmendorf_AFB, 3, B0031, Truck-5, 3, 1045, 0
+Mud_Bay_Sup, Fairbanks_Airport, 3, C0138, Truck-5, 46, 730, 0
+Mud_Bay_Sup, Fairbanks_Airport, 3, B0953, Truck-5, 2, 2230, 0
+Mud_Bay_Sup, Fairbanks_Airport, 3, D0016, Truck-5, 2, 1640, 10000
+Mud_Bay_Sup, Fairbanks_Airport, 3, C3409, Truck-5, 197.828, 650, 0
+Elmendorf_AFB, Seward_MPF_Port, 3, D0034, Truck-5, 0.186242, 11500, 10000
+Anchorage_Port, Seward_MPF_Port, 3, E0043, OSV, 0.111129, 12060, 10000
+Seward_MPF_Port, Fairbanks_Airport, 3, D0034, Truck-5, 0.302783, 11500, 10000
+Nome_Airport, Teller_Dest, 3, D0880, Truck-5, 1, 200, 10000
+Nome_Airport, Teller_Dest, 3, V4355, Truck-5, 28, 200, 0
+Nome_Airport, Teller_Dest, 3, V4610, Truck-5, 2, 200, 0
+Nome_Airport, Teller_Dest, 3, C7915, Truck-5, 2, 120, 0
+Nome_Airport, Teller_Dest, 3, K4343, Truck-5, 6, 200, 0
+Nome_Airport, Teller_Dest, 3, A0097, Truck-5, 2, 2, 0
+Nome_Airport, Teller_Dest, 3, C00772E, Truck-5, 1, 480, 0
+Nome_Airport, Teller_Dest, 3, HEATER-PORTABLE-DUCT, Truck-5, 1, 1280, 0
+Nome_Airport, Teller_Dest, 3, PORTABLE FLOOR CRANE, Truck-5, 1, 330, 0
+Nome_Airport, Teller_Dest, 3, CHARGING RIG-O2, Truck-5, 1, 2130, 0
+Nome_Airport, Teller_Dest, 3, COMPRESSOR UNIT-ROTARY, Truck-5, 1, 2500, 0
+Nome_Airport, Teller_Dest, 3, C79052B, Truck-5, 1, 200, 0
+Nome_Airport, Teller_Dest, 3, K4250, Truck-5, 20, 1, 0
+Nome_Airport, Teller_Dest, 3, DISABLED WHEEL DOLLY, Truck-5, 1, 310, 10000
+Nome_Airport, Teller_Dest, 3, B0027, Truck-5, 1.3568, 311, 0
+Nome_Airport, Teller_Dest, 3, A7706, Truck-5, 2, 18, 0
+Nome_Airport, Teller_Dest, 3, COMPONENT HANDLING JACK, Truck-5, 1, 910, 0
+Nome_Airport, Teller_Dest, 3, M5030, Truck-5, 3, 510, 0
+Nome_Airport, Teller_Dest, 3, V4550, Truck-5, 2, 200, 0
+Nome_Airport, Teller_Dest, 3, B2035, Truck-5, 2, 200, 0
+Nome_Airport, Teller_Dest, 3, ADU-932 Crate, Truck-5, 1, 80, 0
+Nome_Airport, Teller_Dest, 3, SUU-95/A, Truck-5, 1, 500, 0
+Nome_Airport, Teller_Dest, 3, K4128, Truck-5, 6, 1, 0
+Nome_Airport, Teller_Dest, 3, C4546, Truck-5, 9, 3, 0
+Nome_Airport, Teller_Dest, 3, B0008, Truck-5, 1, 794, 0
+Nome_Airport, Teller_Dest, 3, V4340, Truck-5, 6, 200, 0
+Nome_Airport, Teller_Dest, 3, K4895, Truck-5, 2, 1, 0
+Nome_Airport, Teller_Dest, 3, LAU-151/A, Truck-5, 1, 140, 0
+Nome_Airport, Teller_Dest, 3, ADU-933 Crate, Truck-5, 1, 80, 0
+Nome_Airport, Teller_Dest, 3, C4433, Truck-5, 5, 3260, 10000
+Nome_Airport, Teller_Dest, 3, HIGH LIFT ADAPTER CRATE, Truck-5, 1, 550, 0
+Nome_Airport, Teller_Dest, 3, C0078, Truck-5, 6, 200, 0
+Nome_Airport, Teller_Dest, 3, V0012, Truck-5, 7, 200, 0
+Nome_Airport, Teller_Dest, 3, LAU-147 Crate, Truck-5, 1, 140, 0
+Nome_Airport, Teller_Dest, 3, B1021, Truck-5, 1, 3230, 0
+Nome_Airport, Teller_Dest, 3, V0023, Truck-5, 2, 200, 0
+Nome_Airport, Teller_Dest, 3, BRU-67 Crate, Truck-5, 1, 190, 0
+Nome_Airport, Teller_Dest, 3, SUU-96/A, Truck-5, 1, 250, 0
+Nome_Airport, Teller_Dest, 3, C4880, Truck-5, 9, 200, 0
+Juneau_Airport, Nome_Airport, 3, C8614, C-17, 1, 200, 0
+Juneau_Airport, Nome_Airport, 3, V0028, C-17, 28, 200, 0
+Juneau_Airport, Nome_Airport, 3, K4959, C-17, 6, 505, 0
+Juneau_Airport, Nome_Airport, 3, C8600, C-17, 1, 200, 0
+Juneau_Airport, Nome_Airport, 3, B0029, C-17, 2, 534, 0
+Juneau_Airport, Nome_Airport, 3, D0013, C-17, 1, 200, 10000
+Juneau_Airport, Nome_Airport, 3, V0024, C-17, 28, 200, 0
+Juneau_Airport, Nome_Airport, 3, V0026, C-17, 28, 200, 0
+Juneau_Airport, Nome_Airport, 3, C8740, C-17, 1, 200, 0
+Juneau_Airport, Nome_Airport, 3, C8604, C-17, 1, 200, 0
+Juneau_Airport, Nome_Airport, 3, V4011, C-17, 2, 200, 0
+Juneau_Airport, Nome_Airport, 3, C8638, C-17, 1, 720, 0
+Juneau_Airport, Nome_Airport, 3, B0027, C-17, 1.44852, 311, 0
+Juneau_Airport, Nome_Airport, 3, B2085, C-17, 1, 2600, 0
+Juneau_Airport, Nome_Airport, 3, C0138, C-17, 1.07293, 730, 0
+Juneau_Airport, Nome_Airport, 3, V4012, C-17, 2, 200, 0
+Juneau_Airport, Nome_Airport, 3, B0028, C-17, 5, 455, 0
+Juneau_Airport, Nome_Airport, 3, C0035, C-17, 1, 887, 0
+Juneau_Airport, Nome_Airport, 3, C8640, C-17, 1, 200, 0
+Juneau_Airport, Elmendorf_AFB, 4, B0030, C-17, 2.02924, 1045, 0
+Juneau_Airport, Elmendorf_AFB, 4, B0027, C-17, 0.0351189, 311, 0
+Juneau_Airport, Elmendorf_AFB, 4, B0640, C-17, 3.15761, 1920, 0
+Tanani_Sup, Juneau_Airport, 4, B0027, Truck-5, 1.0493, 311, 0
+Tanani_Sup, Juneau_Airport, 4, NIIN 14671753, Truck-5, 118.182, 15, 0
+Tanani_Sup, Juneau_Airport, 4, D0030, Truck-5, 0.233263, 10500, 10000
+Tanani_Sup, Juneau_Airport, 4, NIIN 1491094, Truck-5, 3.22581, 22, 0
+Tanani_Sup, Juneau_Airport, 4, B1021, Truck-5, 3, 3230, 0
+Mud_Bay_Sup, Juneau_Airport, 4, B0049, Truck-5, 0.225282, 7410, 0
+Mud_Bay_Sup, Juneau_Airport, 4, B0030, Truck-5, 2, 1045, 0
+Mud_Bay_Sup, Juneau_Airport, 4, B0027, Truck-5, 0.145377, 311, 0
+Mud_Bay_Sup, Juneau_Airport, 4, C0138, Truck-5, 0.164542, 730, 0
+Mud_Bay_Sup, Juneau_Airport, 4, B0953, Truck-5, 1.39023, 2230, 0
+Mud_Bay_Sup, Juneau_Airport, 4, C6621, Truck-5, 4, 2687, 0
+Mud_Bay_Sup, Juneau_Airport, 4, B0640, Truck-5, 1, 1920, 0
+Mud_Bay_Sup, Juneau_Airport, 4, B0031, Truck-5, 1, 1045, 0
+Anchorage_Port, Seward_MPF_Port, 4, D1063, OSV, 0.0622612, 34400, 10000
+Seward_MPF_Port, Fairbanks_Airport, 4, D0034, Truck-5, 0.186242, 11500, 10000
+Seward_MPF_Port, Fairbanks_Airport, 4, E0043, Truck-5, 0.111129, 12060, 10000
+Fairbanks_Airport, Elmendorf_AFB, 4, B0027, Truck-5, 1.31333, 311, 0
+Nome_Airport, Teller_Dest, 4, C8614, Truck-5, 1, 200, 0
+Nome_Airport, Teller_Dest, 4, V0028, Truck-5, 28, 200, 0
+Nome_Airport, Teller_Dest, 4, K4959, Truck-5, 6, 505, 0
+Nome_Airport, Teller_Dest, 4, C8600, Truck-5, 1, 200, 0
+Nome_Airport, Teller_Dest, 4, B0029, Truck-5, 2, 534, 0
+Nome_Airport, Teller_Dest, 4, D0013, Truck-5, 1, 200, 10000
+Nome_Airport, Teller_Dest, 4, V0024, Truck-5, 28, 200, 0
+Nome_Airport, Teller_Dest, 4, V0026, Truck-5, 28, 200, 0
+Nome_Airport, Teller_Dest, 4, C8740, Truck-5, 1, 200, 0
+Nome_Airport, Teller_Dest, 4, C8604, Truck-5, 1, 200, 0
+Nome_Airport, Teller_Dest, 4, V4011, Truck-5, 2, 200, 0
+Nome_Airport, Teller_Dest, 4, C8638, Truck-5, 1, 720, 0
+Nome_Airport, Teller_Dest, 4, B0027, Truck-5, 1.44852, 311, 0
+Nome_Airport, Teller_Dest, 4, B2085, Truck-5, 1, 2600, 0
+Nome_Airport, Teller_Dest, 4, C0138, Truck-5, 1.07293, 730, 0
+Nome_Airport, Teller_Dest, 4, V4012, Truck-5, 2, 200, 0
+Nome_Airport, Teller_Dest, 4, B0028, Truck-5, 5, 455, 0
+Nome_Airport, Teller_Dest, 4, C0035, Truck-5, 1, 887, 0
+Nome_Airport, Teller_Dest, 4, C8640, Truck-5, 1, 200, 0
+Juneau_Airport, Nome_Airport, 4, C0138, C-17, 1.76252, 730, 0
+Juneau_Airport, Nome_Airport, 4, B0953, C-17, 0.609772, 2230, 0
+Mosquito_Lake_Sup, Juneau_Airport, 5, D1001, Truck-5, 0.218998, 7960, 10000
+Mosquito_Lake_Sup, Juneau_Airport, 5, B0049, Truck-5, 1.77472, 7410, 0
+Mosquito_Lake_Sup, Juneau_Airport, 5, D0862, Truck-5, 0.79605, 10500, 10000
+Mosquito_Lake_Sup, Juneau_Airport, 5, B2566, Truck-5, 0.381691, 13440, 0
+Mosquito_Lake_Sup, Fairbanks_Airport, 5, D0033, Truck-5, 2, 10740, 10000
+Tanani_Sup, Juneau_Airport, 5, NIIN 14671753, Truck-5, 118.182, 15, 0
+Tanani_Sup, Juneau_Airport, 5, NIIN 1491094, Truck-5, 3.22581, 22, 0
+Mud_Bay_Sup, Juneau_Airport, 5, D1001, Truck-5, 0.781002, 7960, 10000
+Mud_Bay_Sup, Juneau_Airport, 5, D0030, Truck-5, 2.31542, 10500, 10000
+Anchorage_Port, Fairbanks_Airport, 5, D1063, Truck-5, 0.937739, 34400, 10000
+Seward_MPF_Port, Fairbanks_Airport, 5, D1063, Truck-5, 0.0622612, 34400, 10000
+Nome_Airport, Teller_Dest, 5, C0138, Truck-5, 1.76252, 730, 0
+Nome_Airport, Teller_Dest, 5, B0953, Truck-5, 0.609772, 2230, 0
+Juneau_Airport, Nome_Airport, 5, B0049, C-17, 0.225282, 7410, 0
+Juneau_Airport, Nome_Airport, 5, B0030, C-17, 2, 1045, 0
+Juneau_Airport, Nome_Airport, 5, B0027, C-17, 1.19468, 311, 0
+Juneau_Airport, Nome_Airport, 5, C0138, C-17, 0.164542, 730, 0
+Juneau_Airport, Nome_Airport, 5, B0953, C-17, 1.39023, 2230, 0
+Juneau_Airport, Nome_Airport, 5, C6621, C-17, 4, 2687, 0
+Juneau_Airport, Nome_Airport, 5, B0640, C-17, 1, 1920, 0
+Juneau_Airport, Nome_Airport, 5, B0031, C-17, 1, 1045, 0
+Juneau_Airport, Nome_Airport, 5, B1021, C-17, 3, 3230, 0
+Mosquito_Lake_Sup, Juneau_Airport, 6, D0862, Truck-5, 1.20395, 10500, 10000
+Mosquito_Lake_Sup, Juneau_Airport, 6, B2566, Truck-5, 0.618309, 13440, 0
+Mosquito_Lake_Sup, Juneau_Airport, 6, B2561, Truck-5, 0.950904, 31900, 0
+Mosquito_Lake_Sup, Elmendorf_AFB, 6, B2566, Truck-5, 4, 13440, 0
+Mosquito_Lake_Sup, Elmendorf_AFB, 6, D0033, Truck-5, 4, 10740, 10000
+Mosquito_Lake_Sup, Anchorage_Port, 6, B2561, Truck-5, 0.0376988, 31900, 0
+Tanani_Sup, Juneau_Airport, 6, NIIN 14671753, Truck-5, 2009.09, 15, 0
+Tanani_Sup, Juneau_Airport, 6, D0215, Truck-5, 2, 15300, 10000
+Tanani_Sup, Juneau_Airport, 6, D0030, Truck-5, 0.937473, 10500, 10000
+Tanani_Sup, Juneau_Airport, 6, NIIN 1491094, Truck-5, 88.871, 22, 0
+Tanani_Sup, Juneau_Airport, 6, D0235, Truck-5, 0.138275, 19600, 10000
+Mud_Bay_Sup, Juneau_Airport, 6, B2565, Truck-5, 0.150062, 11700, 0
+Mud_Bay_Sup, Juneau_Airport, 6, B2561, Truck-5, 0.0490956, 31900, 0
+Mud_Bay_Sup, Juneau_Airport, 6, D0030, Truck-5, 0.618642, 10500, 10000
+Mud_Bay_Sup, Elmendorf_AFB, 6, D0035, Truck-5, 2, 12400, 10000
+Mud_Bay_Sup, Elmendorf_AFB, 6, B2565, Truck-5, 0.519715, 11700, 0
+Mud_Bay_Sup, Elmendorf_AFB, 6, D0030, Truck-5, 2.8952, 10500, 10000
+Mud_Bay_Sup, Elmendorf_AFB, 6, D0235, Truck-5, 0.975185, 19600, 10000
+Mud_Bay_Sup, Seward_MPF_Port, 6, B2561, Truck-5, 0.0191057, 31900, 0
+Mud_Bay_Sup, Seward_MPF_Port, 6, D0235, Truck-5, 0.0248146, 19600, 10000
+Nome_Airport, Teller_Dest, 6, B0049, Truck-5, 0.225282, 7410, 0
+Nome_Airport, Teller_Dest, 6, B0030, Truck-5, 2, 1045, 0
+Nome_Airport, Teller_Dest, 6, B0027, Truck-5, 1.19468, 311, 0
+Nome_Airport, Teller_Dest, 6, C0138, Truck-5, 0.164542, 730, 0
+Nome_Airport, Teller_Dest, 6, B0953, Truck-5, 1.39023, 2230, 0
+Nome_Airport, Teller_Dest, 6, C6621, Truck-5, 4, 2687, 0
+Nome_Airport, Teller_Dest, 6, A0067, Truck-5, 0.470588, 9780, 0
+Nome_Airport, Teller_Dest, 6, 10-10-0002, Truck-5, 0.552185, 12500, 0
+Nome_Airport, Teller_Dest, 6, B0640, Truck-5, 1, 1920, 0
+Nome_Airport, Teller_Dest, 6, B0031, Truck-5, 1, 1045, 0
+Nome_Airport, Teller_Dest, 6, B1021, Truck-5, 3, 3230, 0
+Nome_Port, Teller_Dest, 6, A04037G, Truck-5, 1, 10300, 0
+Nome_Port, Teller_Dest, 6, C44332E, Truck-5, 1, 4830, 10000
+Nome_Port, Teller_Dest, 6, MEPP-6 270 POWER CART (Sea Lift), Truck-5, 1, 5500, 0
+Nome_Port, Teller_Dest, 6, CART-PAO SEVICING-DIESEL, Truck-5, 1, 12310, 0
+Nome_Port, Teller_Dest, 6, AIR CONDITIONER-DIESEL-LAND BASED, Truck-5, 1, 14160, 0
+Nome_Port, Teller_Dest, 6, LH859, Truck-5, 1, 5500, 0
+Juneau_Airport, Nome_Airport, 6, D1001, C-17, 1, 7960, 10000
+Juneau_Airport, Nome_Airport, 6, B0049, C-17, 1.77472, 7410, 0
+Juneau_Airport, Nome_Airport, 6, D0862, C-17, 0.79605, 10500, 10000
+Juneau_Airport, Nome_Airport, 6, D0030, C-17, 1.54868, 10500, 10000
+Mosquito_Lake_Sup, Seward_MPF_Port, 7, B2561, Truck-5, 0.519146, 31900, 0
+Mud_Bay_Sup, Elmendorf_AFB, 7, B2565, Truck-5, 0.330223, 11700, 0
+Mud_Bay_Sup, Elmendorf_AFB, 7, B2561, Truck-5, 0.42405, 31900, 0
+Nome_Airport, Teller_Dest, 7, D1001, Truck-5, 1, 7960, 10000
+Nome_Airport, Teller_Dest, 7, B0049, Truck-5, 1.77472, 7410, 0
+Nome_Airport, Teller_Dest, 7, D0862, Truck-5, 0.79605, 10500, 10000
+Nome_Airport, Teller_Dest, 7, D0030, Truck-5, 1.54868, 10500, 10000
+Nome_Airport, Teller_Dest, 7, A0067, Truck-5, 0.117647, 9780, 0
+Juneau_Airport, Nome_Airport, 7, D0862, C-17, 1.20395, 10500, 10000
+Juneau_Airport, Nome_Airport, 7, D0215, C-17, 2, 15300, 10000
+Juneau_Airport, Nome_Airport, 7, B2565, C-17, 0.150062, 11700, 0
+Juneau_Airport, Nome_Airport, 7, D0030, C-17, 1.55612, 10500, 10000
+Juneau_Airport, Nome_Airport, 7, D0235, C-17, 0.138275, 19600, 10000
+Tanani_Sup, Anchorage_Port, 8, D0009, Truck-5, 2, 28000, 10000
+Tanani_Sup, Anchorage_Port, 8, D0235, Truck-5, 0.861725, 19600, 10000
+Nome_Airport, Teller_Dest, 8, D0862, Truck-5, 1.20395, 10500, 10000
+Nome_Airport, Teller_Dest, 8, B2565, Truck-5, 0.0412355, 11700, 0
+Nome_Airport, Teller_Dest, 8, D0030, Truck-5, 1.55612, 10500, 10000
+Nome_Airport, Teller_Dest, 8, A0067, Truck-5, 0.117647, 9780, 0
+Seward_MPF_Port, Nome_Port, 8, B2561, OSV, 0.0191057, 31900, 0
+Seward_MPF_Port, Nome_Port, 8, D0235, OSV, 0.0248146, 19600, 10000
+Elmendorf_AFB, Nome_Airport, 8, D0033, C-17, 4, 10740, 10000
+Elmendorf_AFB, Nome_Airport, 8, D0035, C-17, 2, 12400, 10000
+Elmendorf_AFB, Nome_Airport, 8, B2565, C-17, 0.519715, 11700, 0
+Elmendorf_AFB, Nome_Airport, 8, D0030, C-17, 2.8952, 10500, 10000
+Elmendorf_AFB, Nome_Airport, 8, D0235, C-17, 0.975185, 19600, 10000
+Nome_Airport, Teller_Dest, 9, B2565, Truck-5, 0.029218, 11700, 0
+Nome_Airport, Teller_Dest, 9, D0030, Truck-5, 0.109904, 10500, 10000
+Nome_Airport, Teller_Dest, 9, A0067, Truck-5, 0.117647, 9780, 0
+Seward_MPF_Port, Nome_Port, 9, B2561, OSV, 0.0515796, 31900, 0
+Elmendorf_AFB, Nome_Airport, 9, B2566, C-17, 1, 13440, 0
+Elmendorf_AFB, Nome_Airport, 9, B2565, C-17, 0.330223, 11700, 0
+Nome_Airport, Teller_Dest, 10, D0033, Truck-5, 4, 10740, 10000
+Nome_Airport, Teller_Dest, 10, D0035, Truck-5, 0.217078, 12400, 10000
+Nome_Airport, Teller_Dest, 10, D0215, Truck-5, 0.518641, 15300, 10000
+Nome_Airport, Teller_Dest, 10, B2565, Truck-5, 0.929547, 11700, 0
+Nome_Airport, Teller_Dest, 10, D0030, Truck-5, 2.7853, 10500, 10000
+Nome_Airport, Teller_Dest, 10, A0067, Truck-5, 0.117647, 9780, 0
+Anchorage_Port, Nome_Port, 10, B2561, OSV, 0.0376988, 31900, 0
+Anchorage_Port, Nome_Port, 10, D0009, OSV, 2, 28000, 10000
+Anchorage_Port, Nome_Port, 10, D0235, OSV, 0.861725, 19600, 10000
+Seward_MPF_Port, Nome_Port, 10, B2561, OSV, 0.467566, 31900, 0
+Elmendorf_AFB, Nome_Airport, 10, B2561, C-17, 0.116068, 31900, 0
+Nome_Airport, Teller_Dest, 11, B2566, Truck-5, 0.0712324, 13440, 0
+Nome_Airport, Teller_Dest, 11, D0035, Truck-5, 1.78292, 12400, 10000
+Nome_Airport, Teller_Dest, 11, D0215, Truck-5, 1.48136, 15300, 10000
+Nome_Airport, Teller_Dest, 11, A0067, Truck-5, 0.117647, 9780, 0
+Nome_Airport, Teller_Dest, 12, B2566, Truck-5, 0.928768, 13440, 0
+Nome_Airport, Teller_Dest, 12, B2561, Truck-5, 0.114423, 31900, 0
+Nome_Airport, Teller_Dest, 12, A0067, Truck-5, 0.117647, 9780, 0
+Nome_Airport, Teller_Dest, 12, D0235, Truck-5, 0.680123, 19600, 10000
+Nome_Airport, Teller_Dest, 13, B2561, Truck-5, 0.00164452, 31900, 0
+Nome_Airport, Teller_Dest, 13, A0067, Truck-5, 0.117647, 9780, 0
+Nome_Airport, Teller_Dest, 13, D0235, Truck-5, 0.017732, 19600, 10000
+Nome_Port, Teller_Dest, 13, B2561, Truck-5, 0.0191057, 31900, 0
+Nome_Port, Teller_Dest, 13, D0235, Truck-5, 0.0248146, 19600, 10000
+Elmendorf_AFB, Nome_Airport, 13, B2561, C-17, 0.307982, 31900, 0
+Nome_Airport, Teller_Dest, 14, B2561, Truck-5, 0.307982, 31900, 0
+Nome_Airport, Teller_Dest, 14, A0067, Truck-5, 0.117647, 9780, 0
+Nome_Airport, Teller_Dest, 14, D0235, Truck-5, 0.415605, 19600, 10000
+Nome_Port, Teller_Dest, 14, B2561, Truck-5, 0.0892784, 31900, 0
+Nome_Port, Teller_Dest, 14, D0009, Truck-5, 2, 28000, 10000
+Nome_Port, Teller_Dest, 14, D0235, Truck-5, 0.861725, 19600, 10000
+Nome_Airport, Teller_Dest, 15, A0067, Truck-5, 0.117647, 9780, 0
+Nome_Port, Teller_Dest, 15, B2561, Truck-5, 0.467566, 31900, 0
+Nome_Airport, Teller_Dest, 16, A0067, Truck-5, 0.117647, 9780, 0
