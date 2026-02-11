@@ -15,10 +15,10 @@ def render_welcome_page():
     st.title("Meet the Team")
     cols = st.columns(4)
     team_info = [
-        ("Professors", ["Daniel Bienstock", "Alexandra Newman"]),
-        ("PhD Students", ["Justin Kilb", "Blake Sisson", "Luke Messer"]),
-        ("Master's Students", ["Gabe Hake", "Bobby Provine", "Caleb Fluker"]),
-        ("Undergraduates", ["Kevin Bamwisho", "Steph Shiferaw"]),
+        ("Professors", ["🗽Daniel Bienstock", "⚒️Alexandra Newman"]),
+        ("PhD Students", ["🗽Blake Sisson", "⚒️Justin Kilb", "⚒️Luke Messer"]),
+        ("Master's Students", ["⚒️Bobby Provine", "⚒️Caleb Fluker", "⚒️Gabe Hake"]),
+        ("Undergraduates", ["⚒️Kevin Bamwisho", "⚒️Steph Shiferaw"]),
     ]
     for col, (title, names) in zip(cols, team_info):
         col.subheader(title)
