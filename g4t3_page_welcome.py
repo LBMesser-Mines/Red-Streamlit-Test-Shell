@@ -17,7 +17,7 @@ def render_welcome_page():
     team_info = [
         ("Professors", ["🗽Daniel Bienstock", "⚒️Alexandra Newman"]),
         ("PhD Students", ["🗽Blake Sisson", "⚒️Justin Kilb", "⚒️Luke Messer"]),
-        ("Master's Students", ["⚒️Bobby Provine", "⚒️Caleb Fluker", "⚒️Gabe Hake"]),
+        ("Master's Students", ["⚒️Bobby Provine", "⚒️Brandon Werling", "⚒️Caleb Fluker", "⚒️Gabe Hake"]),
         ("Undergraduates", ["⚒️Kevin Bamwisho", "⚒️Steph Shiferaw"]),
     ]
     for col, (title, names) in zip(cols, team_info):

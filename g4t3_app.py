@@ -48,8 +48,7 @@ PAGES = {
     "Adversarial Risk Report": g4t3_page_adversarial_risk.render_page,
     "Stage Drill-Down": g4t3_page_stage_drilldown.render_page,
     "Stage Comparison": g4t3_page_stage_comparison.render_page,
-    "Stage Map": g4t3_page_stage_map.render_page,
-    "Stage Map2": mapping_tool.main,
+    "Map": mapping_tool.main,
 }
 
 def main():
