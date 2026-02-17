@@ -1268,7 +1268,27 @@ def run_streamlit_viewer():
             key="time_slider",
             label_visibility="collapsed"
         )
-        st.caption(f"Time {selected_time:03d}")
+        
+        # Compute hours per period from scenario time_horizon when available
+        hours_per_period_caption = "One time period = — hours"
+        if selected_json:
+            json_path = os.path.join(json_scenarios_dir, selected_json)
+            th = load_time_horizon(json_path)
+            if th and "log_start" in th and "log_end" in th:
+                try:
+                    def _parse(s):
+                        s = (s or "").strip().replace("Z", "+00:00")
+                        return datetime.fromisoformat(s)
+                    start = _parse(th["log_start"])
+                    end = _parse(th["log_end"])
+                    if start < end and max_time >= 1:
+                        total_seconds = (end - start).total_seconds()
+                        num_intervals = max(1, max_time - 1)
+                        hours_per_period = (total_seconds / 3600.0) / num_intervals
+                        hours_per_period_caption = f"One time period = {hours_per_period:.1f} hours"
+                except Exception:
+                    pass
+        st.caption(hours_per_period_caption)
     
     def get_optional_selectbox(files, key_prefix, subheader):
         """Helper to create optional selectbox with None option."""
