@@ -1377,8 +1377,8 @@ def run_streamlit_viewer():
                             route_df.to_csv(temp_csv.name, index=False)
                             temp_csv.close()
                             
-                            # Determine color scheme (M0 = blue, M3 = red/orange/yellow gradient)
-                            use_blue = selected_mip == "M0.csv"
+                            # Determine color scheme (M0/Blue.csv = blue arcs, others = red/orange/yellow gradient)
+                            use_blue = (selected_mip or "").lower() in ("m0.csv", "blue.csv")
                             
                             # Load time_horizon from JSON for compass time display
                             time_horizon = load_time_horizon(json_path)
@@ -1463,7 +1463,7 @@ def run_streamlit_viewer():
                                 None
                             )
                             time_horizon = load_time_horizon(json_path)
-                            use_blue = selected_mip == "M0.csv"
+                            use_blue = (selected_mip or "").lower() in ("m0.csv", "blue.csv")
                             intel_df = None
                             if selected_intel_csv:
                                 intel_csv_path = os.path.join(intel_dir, selected_intel_csv)
